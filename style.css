@@ -1,3 +1,18 @@
 .c1{
     text-align: center;
 }
+.win{
+    color: blue;
+}
+#no-balloons{
+    display: none;
+    color: aquamarine;
+}
+.balloons-div div{
+    height: 100px;
+    width: 100px;
+    color: rgb(0, 255, 170);
+    background-color: rgb(90, 115, 169);
+    display: inline-block;
+    border-radius: 100%;
+}
