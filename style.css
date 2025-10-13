@@ -1,12 +1,17 @@
 .c1{
     text-align: center;
 }
-.win{
-    color: blue;
+.h1{
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
 }
+/* .win{
+    color: green;
+} */
 #no-balloons{
     display: none;
-    color: aquamarine;
+    color: rgba(7, 234, 158, 0.895);
 }
 .balloons-div div{
     height: 100px;
